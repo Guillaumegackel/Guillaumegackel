@@ -20,17 +20,17 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 
 <br>
 
-**Formation**
+#**Formation**
 🎓  Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
 
 <br>
 
-**Mon portfolio**
+#**Mon portfolio**
 📰  xxxxxxx
 
 <br>
 
-🛠  **Compétences et outils en détails**
+#🛠  **Compétences et outils en détails**
 
 ⚡  **Back End**
 NodeJS
@@ -56,7 +56,7 @@ Trello / Jira / Redmine / BaseCamp
 👯  **et des hobbies ...**.
 JV / Handball 
 
- 📫  **Me contacter**
+# 📫  **Me contacter**
 [![Gmail Badge]
 [![Linkedin]
 Twitter
