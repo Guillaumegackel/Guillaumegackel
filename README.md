@@ -2,32 +2,33 @@
 
 # Hi I'm Guillaume 👋
 
-- 🔥  I'm a Fullstack Javascript Developer,
+-   I'm a Fullstack Javascript Developer,
 
 
+🔥 Développeur FullStack JS
 
-< Hello 👋, je suis Guillaume />
-
-Développeur Front-end JS
 Après 13 ans de direction de projet et management d'equipe en agence digitale (5eme Gauche / WPP / BETC Fullsix), 
 
 je me lance dans une nouvelle carrière dans le développement web.
 
-🎓 Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
-
-📰 Mon portfolio
-
 🔬 Le back et les BDD j'adore, mais je travaille avec React et Vue.Js en ce moment
 
-J'ai manipulé plein de CMS dans ma vie, Joomla, Typo3, WordPress, Drupal, AEM, Magento, Prismic, ContentFull....
+J'ai concu/géré avec beaucoup de CMS dans ma vie, Joomla, Typo3, WordPress, Drupal, AEM, Magento, Prismic, ContentFull....
 
 Les plateformes média me fascinent: de la télévision à Twitch en pssant par les podcats, je suis un grand consommateur :) 
 
 Grand amateur de Handball, je le pratique en club depuis l'age de 8 ans....
 
-Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù
+Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù ensemble
 
-🛠 **Compétences et outils**
+**Formation**
+🎓 Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
+
+**Mon portfolio**
+📰
+
+
+🛠 **Compétences et outils en détails**
 
 ⚡**Back End**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,15 +47,14 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 Tailwind
 Bulma
 
-
 🔭**Déploiement**
-OVH Git Github
+OVH / AWS / Git / Github
 
 🏭**Organisation**
-Trello Jira Redmine 
+Trello / Jira / Redmine / BaseCamp
 
 👯**et des hobbies ...**.
-Switch Handball Youtube
+JV / Handball 
 
  📫**Me contacter**
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:eden.ls.dev@gmail.com)
