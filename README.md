@@ -25,8 +25,8 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 
 <br>
 
-# **Mon portfolio**
-📰  xxxxxxx
+# 📰 **Mon portfolio**
+  xxxxxxx
 
 <br>
 
@@ -47,6 +47,8 @@ Vanilla JavaScript
 React 
 Redux
 
+<br>
+
 🔭  **Déploiement**
 OVH / AWS / Git / Github
 
@@ -55,6 +57,8 @@ Trello / Jira / Redmine / BaseCamp
 
 👯  **et des hobbies ...**.
 JV / Handball 
+
+<br>
 
 # 📫  **Me contacter**
 [![Gmail Badge]
