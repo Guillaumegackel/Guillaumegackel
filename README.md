@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Guillaume 👋
 
-🔥 Développeur FullStack JS
+🔥  Développeur FullStack JS
 
 Après 13 ans de direction de projet et management d'équipe en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
 
@@ -21,18 +21,18 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 <br>
 
 **Formation**
-🎓 Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
+🎓  Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
 
 <br>
 
 **Mon portfolio**
-📰 xxxxxxx
+📰  xxxxxxx
 
 <br>
 
-🛠 **Compétences et outils en détails**
+🛠  **Compétences et outils en détails**
 
-⚡**Back End**
+⚡  **Back End**
 NodeJS
 Express
 MongoDB
@@ -40,23 +40,23 @@ PostGreSQL
 
 <br>
 
-💬**Front End**
+💬  **Front End**
 HTML 5 / CSS
 SASS - TailWind - Bulma
 Vanilla JavaScript
 React 
 Redux
 
-🔭**Déploiement**
+🔭  **Déploiement**
 OVH / AWS / Git / Github
 
-🏭**Organisation**
+🏭  **Organisation**
 Trello / Jira / Redmine / BaseCamp
 
-👯**et des hobbies ...**.
+👯  **et des hobbies ...**.
 JV / Handball 
 
- 📫**Me contacter**
+ 📫  **Me contacter**
 [![Gmail Badge]
 [![Linkedin]
 Twitter
