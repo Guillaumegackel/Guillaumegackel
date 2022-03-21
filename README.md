@@ -33,6 +33,8 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 # 🛠  **Compétences et outils en détails**
 
 ⚡  **Back End**
+
+
 https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
@@ -76,11 +78,14 @@ JV / Handball
 <br>
 
 # 📫  **Me contacter**
-	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![image](https://user-images.githubusercontent.com/87021937/159312311-4f362012-8467-4c6a-811d-b8a672431ac3.png)
 
-	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+![image](https://user-images.githubusercontent.com/87021937/159312222-de78761b-08d0-44b1-bc9b-6b2e1b3ee019.png)
+
+
+![image](https://user-images.githubusercontent.com/87021937/159312147-f1933aca-72e7-4907-bad5-4ca3dbf56c97.png)
+
 
 <br>
 
