@@ -4,7 +4,7 @@
 
 🔥  _Développeur FullStack JS_
 
-Après 13 ans de _direction de projet_ et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
+Après 13 ans de *direction de projet* et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
 
 je me lance dans une nouvelle carrière dans le développement web.
 
