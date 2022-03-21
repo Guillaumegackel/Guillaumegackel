@@ -2,21 +2,21 @@
 
 # Bonjour, moi c'est Guillaume 👋
 
-🔥  Développeur FullStack JS
+🔥  _Développeur FullStack JS_
 
-Après 13 ans de direction de projet et management d'équipe en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
+Après 13 ans de _direction de projet_ et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
 
 je me lance dans une nouvelle carrière dans le développement web.
 
-🔬 Le back et les BDD j'adore, mais mon appétence pour les micro-interactions et les interfaces m'a amené à me concentrer sur React, Redux, TailWind, et bientot Vue.js...
+🔬 Le back et les BDD j'adore, mais mon appétence pour les micro-interactions et les interfaces m'a amené à me concentrer sur _React_, _Redux_, _TailWind_, et bientot _Vue.js_...
 
-J'ai concu/géré avec beaucoup de CMS dans ma vie, Joomla, Typo3, WordPress, Drupal, AEM, Magento, Prismic, ContentFull....
+J'ai concu/géré avec beaucoup de CMS dans ma vie, Joomla, Typo3, WordPress, Drupal, AEM, Magento, Prismic, Strapi....
 
 Les plateformes média me fascinent: de la télévision à Twitch en pssant par les podcasts, je suis un grand consommateur :) 
 
-Grand amateur de Handball, je le pratique en club depuis l'age de 8 ans....
+Grand amateur de _Handball_, je le pratique en club depuis l'age de 8 ans....
 
-Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù ensemble 
+Féru du _Japon_, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù ensemble 
 
 <br>
 
