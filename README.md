@@ -56,15 +56,21 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 <br>
 
 🔭  **Déploiement**
+<br>
+
 ![image](https://user-images.githubusercontent.com/87021937/159312984-93b69122-76df-4031-8362-e4cdf7f0c999.png)
 ![image](https://user-images.githubusercontent.com/87021937/159313071-27c2307d-6e37-40ca-8dfc-6ead1e8cb20c.png)
 ![image](https://user-images.githubusercontent.com/87021937/159314153-e85e38db-23aa-419a-ac9c-a31c29282f03.png)
 
 
 🏭  **Organisation**
+<br>
+
 Trello / Jira / Redmine / BaseCamp
 
 👯  **et des hobbies ...**.
+<br>
+
 JV / Handball 
 
 <br>
