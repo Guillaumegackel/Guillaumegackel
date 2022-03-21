@@ -94,4 +94,4 @@ JV / Handball
 
 <br>
 
-##titre*“Le succès c'est d'aller d'échec en échec sans perdre son enthousiasme" Winston Churchill*
+##titre“Le succès c'est d'aller d'échec en échec sans perdre son enthousiasme" Winston Churchill
