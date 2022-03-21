@@ -33,41 +33,33 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 # 🛠  **Compétences et outils en détails**
 
 ⚡  **Back End**
-
-
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+![image](https://user-images.githubusercontent.com/87021937/159312675-9ac7d7b0-096a-418a-a8a3-ad0cbdfc4c52.png)
+![image](https://user-images.githubusercontent.com/87021937/159312839-b8d3c68a-6c82-4a5b-b90f-22b0a935bd9b.png)
+![image](https://user-images.githubusercontent.com/87021937/159312848-61c4d66f-228d-4e39-8480-d204ea90b926.png)
+![image](https://user-images.githubusercontent.com/87021937/159312873-6f1d9bfe-ff0d-4f31-ae1c-b7b8b9a0d9e7.png)
+![image](https://user-images.githubusercontent.com/87021937/159313351-d6ebec2a-0f9b-4383-85c2-08ca7650f190.png)
 
 <br>
 
 💬  **Front End**
+![image](https://user-images.githubusercontent.com/87021937/159312518-65a250f0-0655-4a57-a045-8b8341c7279e.png)
+![image](https://user-images.githubusercontent.com/87021937/159312546-c20122d3-7e5d-457b-89a8-1fac3f8b2102.png)
+![image](https://user-images.githubusercontent.com/87021937/159312568-edc315ee-0558-492f-bbc6-adf182a46b15.png)
+![image](https://user-images.githubusercontent.com/87021937/159312480-b010179b-5988-4ca3-bb9e-e20a9b622d2c.png)
 ![image](https://user-images.githubusercontent.com/87021937/159311964-190bf464-4d89-4598-b1c9-3639aebd4660.png)
-
-
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-  https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
-  	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-    https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-HTML 5 / CSS
-SASS - TailWind - Bulma
-Vanilla JavaScript
-React 
-Redux
+![image](https://user-images.githubusercontent.com/87021937/159312726-ec3639a0-1475-4de7-b166-a2f81723b418.png)
+![image](https://user-images.githubusercontent.com/87021937/159312749-b6af8296-de0c-4a57-b25f-d59e6124289c.png)
+![image](https://user-images.githubusercontent.com/87021937/159312771-59486dbe-d898-4659-a8cf-856070b85745.png)
+![image](https://user-images.githubusercontent.com/87021937/159312797-e2f893bd-d68b-476e-a730-1ea940504362.png)
+![image](https://user-images.githubusercontent.com/87021937/159312818-d1571b15-36c1-4e0b-8fda-60d347146eae.png)
 
 <br>
 
 🔭  **Déploiement**
-	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-  https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-  OVH / AWS / Git / Github / NetLify
+![image](https://user-images.githubusercontent.com/87021937/159312984-93b69122-76df-4031-8362-e4cdf7f0c999.png)
+![image](https://user-images.githubusercontent.com/87021937/159313071-27c2307d-6e37-40ca-8dfc-6ead1e8cb20c.png)
+![image](https://user-images.githubusercontent.com/87021937/159314153-e85e38db-23aa-419a-ac9c-a31c29282f03.png)
+
 
 🏭  **Organisation**
 Trello / Jira / Redmine / BaseCamp
