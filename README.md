@@ -8,15 +8,15 @@ Après 13 ans de direction de projet et management d'équipe en agence digitale 
 
 je me lance dans une nouvelle carrière dans le développement web.
 
-🔬 Le back et les BDD j'adore, mais je travaille avec React et Vue.Js en ce moment
+🔬 Le back et les BDD j'adore, mais mon appétence pour les micro-interactions et les interfaces m'a amené à me concentré sur React, Redux, TailWind, et bientot Vue.js...
 
 J'ai concu/géré avec beaucoup de CMS dans ma vie, Joomla, Typo3, WordPress, Drupal, AEM, Magento, Prismic, ContentFull....
 
-Les plateformes média me fascinent: de la télévision à Twitch en pssant par les podcats, je suis un grand consommateur :) 
+Les plateformes média me fascinent: de la télévision à Twitch en pssant par les podcasts, je suis un grand consommateur :) 
 
 Grand amateur de Handball, je le pratique en club depuis l'age de 8 ans....
 
-Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù ensemble
+Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discuter d'Onomiyaki, d'Umeshu, de Mamoru Hosoda et de la plaine de Honshù ensemble 
 
 <br>
 
@@ -50,7 +50,7 @@ Redux
 <br>
 
 🔭  **Déploiement**
-OVH / AWS / Git / Github
+OVH / AWS / Git / Github / NetLify
 
 🏭  **Organisation**
 Trello / Jira / Redmine / BaseCamp
