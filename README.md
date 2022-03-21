@@ -21,18 +21,22 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 <br>
 
 # 🎓 **Formation**
+<br>
+
   Ecole O'Clock (Développeur web fullstack - spé React) : 798 heures de formation intensive
 
 <br>
 
 # 📰 **Mon portfolio**
-  xxxxxxx
+  https://web-me.netlify.app/
 
 <br>
 
 # 🛠  **Compétences et outils en détails**
 
 ⚡  **Back End**
+<br>
+
 ![image](https://user-images.githubusercontent.com/87021937/159312675-9ac7d7b0-096a-418a-a8a3-ad0cbdfc4c52.png)
 ![image](https://user-images.githubusercontent.com/87021937/159312839-b8d3c68a-6c82-4a5b-b90f-22b0a935bd9b.png)
 ![image](https://user-images.githubusercontent.com/87021937/159312848-61c4d66f-228d-4e39-8480-d204ea90b926.png)
@@ -42,6 +46,8 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 <br>
 
 💬  **Front End**
+<br>
+
 ![image](https://user-images.githubusercontent.com/87021937/159312518-65a250f0-0655-4a57-a045-8b8341c7279e.png)
 ![image](https://user-images.githubusercontent.com/87021937/159312546-c20122d3-7e5d-457b-89a8-1fac3f8b2102.png)
 ![image](https://user-images.githubusercontent.com/87021937/159312568-edc315ee-0558-492f-bbc6-adf182a46b15.png)
@@ -67,6 +73,7 @@ Féru du Japon, je m'interesse a tous les aspects de sa culture, on peut discute
 <br>
 
 Trello / Jira / Redmine / BaseCamp
+<br>
 
 👯  **et des hobbies ...**.
 <br>
