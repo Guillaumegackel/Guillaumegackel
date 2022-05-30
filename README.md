@@ -1,5 +1,4 @@
-# WebMe ![](https://komarev.com/ghpvc/?username=Guillaumegackel&color=yellow&style=for-the-badge)
-
+# WebMe 
 # Bonjour, moi c'est Guillaume 👋
 
 🔥  _Développeur FullStack JS_
@@ -33,6 +32,8 @@ Féru du _Japon_, je m'interesse a tous les aspects de sa culture, on peut discu
 <br>
 
 # 🛠  **Compétences et outils en détails**
+
+![](https://komarev.com/ghpvc/?username=Guillaumegackel&color=yellow&style=for-the-badge)
 
 ⚡  **Back End**
 <br>
