@@ -1,5 +1,7 @@
 # WebMe
 
+![](https://komarev.com/ghpvc/?username=Guillaumegackel)
+
 # Bonjour, moi c'est Guillaume 👋
 
 🔥  _Développeur FullStack JS_
