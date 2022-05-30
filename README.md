@@ -1,6 +1,4 @@
-# WebMe
-
-![](https://komarev.com/ghpvc/?username=Guillaumegackel)
+# WebMe ![](https://komarev.com/ghpvc/?username=Guillaumegackel)
 
 # Bonjour, moi c'est Guillaume 👋
 
