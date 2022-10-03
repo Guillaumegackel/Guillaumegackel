@@ -1,7 +1,7 @@
 # WebMe 
 # Bonjour, moi c'est Guillaume 👋
 
-🔥  _Développeur FullStack JS_
+🔥  _Concepteur / Développeur FullStack JS_
 
 Après 13 ans de *direction de projet* et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), ma curiosité et ma grande frustration de ne pouvoir participer activement aux échanges entre développeurs m'ont amené à une grande décision: 
 
