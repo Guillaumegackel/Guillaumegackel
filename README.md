@@ -3,9 +3,9 @@
 
 🔥  _Développeur FullStack JS_
 
-Après 13 ans de *direction de projet* et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), 
+Après 13 ans de *direction de projet* et _management d'équipe_ en agence digitale (BETC Fullsix / WPP / 5eme Gauche/...), ma curiosité et ma grande frustration de ne pouvoir participer activement aux échanges entre développeurs m'ont amené à une grande décision: 
 
-je me lance dans une nouvelle carrière dans le développement web.
+je me suis lancé dans ma 2eme passion: le développement web.
 
 🔬 Le back et les BDD j'adore, mais mon appétence pour les micro-interactions et les interfaces m'a amené à me concentrer sur _React_, _Redux_, _TailWind_, et bientot _Vue.js_...
 
